@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CatalogoLivros {
-    List<Livro> catalogo;
+    private List<Livro> catalogo;
 
     public CatalogoLivros() {
         catalogo = new ArrayList<Livro>();
