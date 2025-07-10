@@ -1,4 +1,4 @@
-package main.java.somaNumeros;
+package main.java.List.somaNumeros;
 
 import java.util.ArrayList;
 import java.util.List;
